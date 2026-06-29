@@ -1,0 +1,12 @@
+{
+  "$schema": "https://glama.ai/mcp/servers/schema.json",
+  "name": "visibilityradar-mcp",
+  "description": "Analyze how AI models (Claude, GPT-4o, Gemini, Perplexity, Grok, DeepSeek) see your brand. Returns AI visibility score, per-model breakdowns, sentiment analysis, and competitor comparison.",
+  "license": "MIT",
+  "author": {
+    "name": "VisibilityRadar",
+    "url": "https://visibilityradar.ai"
+  },
+  "homepage": "https://visibilityradar.ai",
+  "repository": "https://github.com/sarefe12-sudo/visibilityradar-mcp"
+}
