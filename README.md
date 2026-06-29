@@ -4,6 +4,7 @@
 
 [![npm version](https://img.shields.io/npm/v/visibilityradar-mcp.svg)](https://www.npmjs.com/package/visibilityradar-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![sarefe12-sudo/visibilityradar-mcp MCP server](https://glama.ai/mcp/servers/sarefe12-sudo/visibilityradar-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sarefe12-sudo/visibilityradar-mcp)
 
 ## What is this?
 
